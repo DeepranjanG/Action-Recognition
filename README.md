@@ -5,3 +5,6 @@
   
 **Task 2**:
   Object Detection and Counting in UI.
+  
+
+Model File [Here!](https://drive.google.com/drive/folders/17f3r8gYbQk3ZJPWHDFMbRZO4_A-FnADZ)
